@@ -1,6 +1,6 @@
 # [Global: HTML5 and SASS Portfolio Website]
 
-This is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
+This is a modern and sleek website template crafted for my DevOps portfolio work. I am using it for a DevOps project where I deploy it using Jenkins, SonarQube, Docker and AWS
 
 This project was developed with HTML5, Sass, jQuery, and Hammer.js.
 
