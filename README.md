@@ -1,4 +1,7 @@
+
 # [Global: HTML5 and SASS Portfolio Website]
+![Screenshot 2023-05-26 at 10 30 51](https://github.com/mxnuchim/Portfolio-Jenkins-DevOps/assets/55309494/5fe8446f-7151-4455-8744-df7b66f27163)
+
 
 This is a modern and sleek website template crafted for my DevOps portfolio work. I am using it for a DevOps project where I deploy it using Jenkins, SonarQube, Docker and AWS
 
